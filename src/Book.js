@@ -1,4 +1,4 @@
-const Book = ({ img, title, author }) => {
+export const Book = ({ img, title, author }) => {
   return (
     <article className="book">
       <img src={img} alt={title} />
@@ -7,3 +7,5 @@ const Book = ({ img, title, author }) => {
     </article>
   );
 };
+
+export default Book;
