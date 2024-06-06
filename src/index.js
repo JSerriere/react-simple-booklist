@@ -34,3 +34,7 @@ const Book = ({ img, title, author }) => {
     </article>
   );
 };
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(<BookList />);
