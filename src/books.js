@@ -16,8 +16,8 @@ export const books = [
     id: 2,
   },
   {
-    author: "Stephen King",
-    title: "Fairy Tale",
+    author: "Jeffrey Mason",
+    title: "Dad. I want t hear your story",
     img: img3,
     id: 3,
   },
