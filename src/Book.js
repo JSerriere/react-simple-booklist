@@ -1,4 +1,4 @@
-export const Book = ({ img, title, author, number }) => {
+const Book = ({ img, title, author, number }) => {
   return (
     <article className="book">
       <img src={img} alt={title} />
