@@ -6,7 +6,7 @@ export const books = [
   {
     author: "Jordan Moore",
     title: "Interesting Facts For Curious Minds",
-    img: img1
+    img: img1,
     id: 1,
   },
   {
