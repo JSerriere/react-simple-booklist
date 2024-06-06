@@ -31,6 +31,8 @@ body {
   border-radius: 1rem;
   padding: 2rem;
   text-align: center;
+  /* set relative */
+  position: relative;
 }
 .book img {
   width: 100%;
