@@ -12,3 +12,5 @@ export const books = [
     id: 2,
   },
 ];
+
+export default books
